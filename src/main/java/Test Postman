@@ -1,0 +1,24 @@
+Crea una collection con:
+
+GET /blogPosts
+
+GET /blogPosts/{id}
+
+POST /blogPosts
+
+PUT /blogPosts/{id}
+
+DELETE /blogPosts/{id}
+
+GET /authors
+
+GET /authors/{id}
+
+POST /authors
+
+PUT /authors/{id}
+
+DELETE /authors/{id}
+
+Usa http://localhost:8080 come base URL.
+
