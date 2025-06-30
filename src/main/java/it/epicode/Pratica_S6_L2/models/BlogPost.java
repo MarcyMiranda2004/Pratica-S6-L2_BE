@@ -1,7 +1,9 @@
 package it.epicode.Pratica_S6_L2.models;
 
+import lombok.Data;
+
+@Data
 public class BlogPost {
-    private static long idCounter = 1;
 
     private Long id;
     private String categoria;
